@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import MemeGenerator from "./MemeGenerator";
+import index from "./index.css";
 
 function App() {
   return (
